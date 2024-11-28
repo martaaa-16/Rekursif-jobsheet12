@@ -8,6 +8,7 @@ public class Percobaan3 {
             return (1.11 * hitungLaba(saldo, tahun - 1));
         }
     }
+    
     public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
         double saldoAwal;
